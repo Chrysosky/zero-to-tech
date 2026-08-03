@@ -1,4 +1,19 @@
-zero-to-tech-demos/
-node_modules
-dist
-CubeSandbox-issue645-GeoPython地理沙盒方案.md
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+*.log
+.env*
